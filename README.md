@@ -1,2 +1,0 @@
-# Reacts
-Created with CodeSandbox
